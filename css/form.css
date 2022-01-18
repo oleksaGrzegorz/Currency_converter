@@ -1,0 +1,20 @@
+.form {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-image: url(../images/money.jpg);
+    background-position: right 10px bottom 20px;
+    background-size: 170px;
+    background-repeat: no-repeat;
+}
+
+.form__label {
+    width: 100px;
+    display: inline-block;
+
+}
+
+.form__result {
+    color: darkgreen;
+    font-size: 20px;
+}
