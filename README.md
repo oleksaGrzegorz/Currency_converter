@@ -2,4 +2,4 @@
 
 ## demo
 
-https://oleksagrzegorz.github.io/homepage/
+https://oleksagrzegorz.github.io/Currency_converter/
