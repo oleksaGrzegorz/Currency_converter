@@ -1,0 +1,13 @@
+.footer {
+    color: white;
+    text-align: center;
+}
+
+.footer__link {
+text-decoration: none;
+color: white;
+}
+
+.footer__link:hover {
+    color: blue;
+}
