@@ -4,7 +4,7 @@
 
 https://oleksagrzegorz.github.io/Currency_converter/
 
-![gif how works currency converter](images/currency-converter.gif)
+![gif how works currency converter](/images/currency-converter.gif)
 
 ## Description
 
