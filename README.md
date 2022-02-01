@@ -4,6 +4,8 @@
 
 https://oleksagrzegorz.github.io/Currency_converter/
 
+![](currency-converter.gif)
+
 ## Description
 
 In this aplication you can convert PLN value to:
