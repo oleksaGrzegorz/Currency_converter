@@ -4,7 +4,7 @@
 
 https://oleksagrzegorz.github.io/Currency_converter/
 
-![gif how works currency converter](currency-converter.gif)
+![gif how works currency converter](images/currency-converter.gif)
 
 ## Description
 
@@ -13,8 +13,6 @@ In this aplication you can convert PLN value to:
 <li>united states dollar</li>
 <li>british pound</li>
 <br>
-
-The application is in Polish.
 
 ## Technologies
 
