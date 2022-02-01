@@ -8,6 +8,7 @@
     background-color: white;
     border-radius: 5px;
     padding-top: 10px;
+    
 }
 
 .form__labelText {
@@ -35,6 +36,7 @@
 
 .form__button:hover {
     background-color:darkred; 
+    cursor: pointer;
 }
 
 .form__fieldset {
